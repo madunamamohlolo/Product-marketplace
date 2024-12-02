@@ -1,0 +1,1 @@
+await marketplace.buyProduct(1, { value: ethers.utils.parseEther("0.02") });
